@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+
+.header_class, .footer_class{
+	border:red solid 3px;
+}
+
+.main_class{
+	border:red solid 3px;
+	margin-top:10px;
+	margin-bottom:10px;
+}
