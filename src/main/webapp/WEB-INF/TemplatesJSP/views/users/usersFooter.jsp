@@ -1,3 +1,3 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
-<h1>test footer!!</h1>
+<h1 class="test">test footer!!</h1>

@@ -1,0 +1,49 @@
+@charset "ISO-8859-1";
+
+.form_research_class{
+    display: flex;
+    justify-content: center;
+    margin-top:10px;
+    margin-bottom:3%;
+
+}
+
+
+.input_research_class{
+    width: 25%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    text-align: center;
+    border-radius: 20px;
+}
+
+h1.gamesRace_title_class,p.data_class{
+	text-align:center;
+}
+
+div.content_gameRaces_class{
+	/*border:solid 2px green;*/
+	margin:5px;
+	display:flex;
+	justify-content:space-between;
+	
+}
+
+img.image_game_race_class{
+	margin:5px;
+	width:100%;
+	margin:auto;
+}
+
+div.gameData_class{
+	border:solid 1px red;
+	width:96%;
+	margin:auto;
+	margin-bottom:5px;
+}
+
+article.game_race_article_class{
+	border:solid 1px red;
+	width:23.6%;
+	margin:5px;
+}

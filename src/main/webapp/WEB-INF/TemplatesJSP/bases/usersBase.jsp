@@ -10,6 +10,9 @@
 			<meta name="viewport" content="width=device-width, initial-scale=1.0">
 			<link rel="icon" type="image/x-icon" href="${pageContext.request.contextPath}/IMAGES/logoMayotte.png">
 			<link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/CSS/bases/usersBaseStyle.css" media="all">
+			<link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/CSS/views/users/usersHeaderStyle.css" media="all">
+			<link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/CSS/views/users/viewHomeStyle.css" media="all">
+			<link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/CSS/views/users/usersFooterStyle.css" media="all">
 			<title>${PageTitle}</title>
 			
 		</head>
@@ -21,7 +24,7 @@
 			</header>
 		
 			<main class="main_class" id="">
-				<jsp:include page="${PageContent}" />
+				<jsp:include page="${MainContent}" />
 			</main>
 			
 			<footer class="footer_class" id="">
