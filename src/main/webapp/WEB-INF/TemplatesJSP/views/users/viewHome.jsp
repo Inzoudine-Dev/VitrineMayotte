@@ -8,7 +8,7 @@
     
     <scetion class="scetion_gameRaces_class">
     
-    	<h1 class="gamesRace_title_class"> Jeux de course </h1>
+    	<h1 class="gamesRace_title_class"> Les événements </h1>
     
     	<div class="content_gameRaces_class">
     		
@@ -59,7 +59,7 @@
    	
    	<scetion class="scetion_gameRaces_class">
     
-    	<h1 class="gamesRace_title_class"> Jeux de combat </h1>
+    	<h1 class="gamesRace_title_class"> Les localités </h1>
     
     	<div class="content_gameRaces_class">
     		
